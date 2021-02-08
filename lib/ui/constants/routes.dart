@@ -1,0 +1,9 @@
+const String StartupViewRoute = "Startup";
+const String DashboardViewRoute = "Dashboard";
+const String SignInViewRoute = "SignIn";
+const String ForgotPasswordViewRoute = "Password";
+const String ClientViewRoute = "MyProfile";
+const String SessionsViewRoute = "Sessions";
+const String PurchasesViewRoute = "Purchases";
+const String PaymentViewRoute = 'Payment';
+const String CurrentPlanViewRoute = 'CurrentPlan';
